@@ -28,6 +28,7 @@
     display: flex;
     
 }
+
 .text {
     display: flex;
 }
@@ -151,4 +152,17 @@ h5{
     /* margin-left: 70px;
     margin-right: 70px;
     padding: 15px; */
+}
+.section2-intro{
+    text-align: center;
+    background-color: #fff;
+    padding: 80px;
+}
+.section2-intro-p{
+    /* position: relative; */
+    /* margin: 0px 0px 10px calc((100% - 980px) * 0.5); */
+    /* left: 170px;
+    grid-area: 2 / 1 / 3 / 2; */
+    /* width: 500px; */
+    
 }
