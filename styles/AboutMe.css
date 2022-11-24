@@ -1,0 +1,233 @@
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    background-color: #f2f1f0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Css about */
+
+.one-contener{
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 20%;
+}
+.body-about{
+    position: relative;
+    height: 40pc;
+    padding-block: 104px;
+    
+    font-size: 16px;
+    background-color: white;
+
+
+}
+.body-about .b-about{
+    margin-bottom: 100px;
+    margin-top: 40px;
+    background-color: white;
+    
+
+}
+.body-about p{
+    padding-inline: 200px;
+    text-align: center;
+    background-color: white;   
+    line-height: 1.5em;
+    margin: 0px 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+.title{
+    text-align: center;
+    font-size: 28px;
+    
+}
+.title h1{
+    background-color: white;
+
+}
+   
+.about-img{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.about-img img{
+    position: absolute;
+    height: 607px;
+    width: 980x;
+   
+
+}
+
+
+
+/* Css contact */
+.contact{
+    margin: 0;
+}
+.contact_1{
+    width: 80%;
+    background-color: white;
+    margin-top: 500px;
+   justify-content:space-evenly;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    
+   
+    
+   
+}
+
+
+.contact__left{
+    display: inline-block;
+    left: 100px;
+   background-color: white;
+    line-height: 30.4px;
+    display: flex;
+    flex-direction: column;
+    gap:70px;
+
+}
+.Contact__title{
+    background-color: white;
+}
+.contact__font1 p ,span{
+    background-color: white;
+}
+
+   .form__inf1{
+    background-color: white;
+    margin-bottom: 120px;
+   }
+   
+        .form__table-1{
+            background-color: white;
+            display: flex;
+            max-width: 100%;
+            width: 100%;
+            gap:30px
+            
+        }
+      
+        .form__table input{
+            background-color: white;
+            min-height: 37px;
+            border-style: solid;
+            border-width: 0px 0px 1px 0px;
+            margin-bottom: 10px;
+        }
+        .form__Subject input{
+            background-color: white;
+            min-height: 37px;
+            width: 100%;
+        }
+        .form__message textarea{
+            background-color: white;
+            border-style: solid;
+            border-width: 0px 0px 1px 0px;
+            height: 126px;
+            width: 100%;
+        }
+
+        .form__send{
+            background-color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+             
+        }
+            .form__send input{
+                background-color:white;
+                text-transform: uppercase;
+                border: 0px;
+            }
+            .form__send input:hover{
+                opacity: 0.5;
+                transition: 1s;
+
+            }
+
+    .form__inf2{
+        background-color: white;
+        margin-top: 0px;
+    }
+
+.contact__right{
+    background-color: white;
+    right: 100px;
+    
+    text-align: left;
+    display: flex;
+    flex-direction:column;
+    gap: 20px;
+}
+
+.contact__right-in{
+    background-color: white;
+    padding-top: 50px;
+    padding-top: 50px;
+    display: grid;
+    grid-template-rows:1fr;
+    margin-top: 20px;
+    
+}
+   
+
+    
+
+    .form__inf2-1{
+        background-color: white;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .form__inf2-2{
+        background-color: white;
+        display: flex;
+        gap: 10px;
+    }
+
+.form__inf2-3 button{
+    color: rgb(255, 255, 255);
+    background: black;
+    transition: 0.2s;
+    font-size: 14px;
+    width: 150px;
+    height: 30px;
+}
+.form__inf2-3 button:hover{
+    background: rgb(212, 198, 179);
+    border: 0;
+
+}
+
+.form__inf2-2{
+    
+    height: 30px;
+}
+.border input:hover{
+    background: black;
+
+
+}
+
+
+
+
+
